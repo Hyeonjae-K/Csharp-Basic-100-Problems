@@ -16,6 +16,23 @@
     <Compile Remove="1005.cs" />
     <Compile Remove="1006.cs" />
     <Compile Remove="1007.cs" />
+    <Compile Remove="1008.cs" />
+    <Compile Remove="1010.cs" />
+    <Compile Remove="1011.cs" />
+    <Compile Remove="1012.cs" />
+    <Compile Remove="1013.cs" />
+    <Compile Remove="1014.cs" />
+    <Compile Remove="1015.cs" />
+    <Compile Remove="1017.cs" />
+    <Compile Remove="1018.cs" />
+    <Compile Remove="1019.cs" />
+    <Compile Remove="1020.cs" />
+    <Compile Remove="1021.cs" />
+    <Compile Remove="1022.cs" />
+    <Compile Remove="1023.cs" />
+    <Compile Remove="1024.cs" />
+    <Compile Remove="1025.cs" />
+    <Compile Remove="1026.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -29,6 +46,23 @@
     <None Include="1005.cs" />
     <None Include="1006.cs" />
     <None Include="1007.cs" />
+    <None Include="1008.cs" />
+    <None Include="1010.cs" />
+    <None Include="1011.cs" />
+    <None Include="1012.cs" />
+    <None Include="1013.cs" />
+    <None Include="1014.cs" />
+    <None Include="1015.cs" />
+    <None Include="1017.cs" />
+    <None Include="1018.cs" />
+    <None Include="1019.cs" />
+    <None Include="1020.cs" />
+    <None Include="1021.cs" />
+    <None Include="1022.cs" />
+    <None Include="1023.cs" />
+    <None Include="1024.cs" />
+    <None Include="1025.cs" />
+    <None Include="1026.cs" />
   </ItemGroup>
 
 </Project>
