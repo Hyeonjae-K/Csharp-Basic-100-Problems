@@ -8,4 +8,27 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="1001.cs" />
+    <Compile Remove="1002.cs" />
+    <Compile Remove="1003.cs" />
+    <Compile Remove="1004.cs" />
+    <Compile Remove="1005.cs" />
+    <Compile Remove="1006.cs" />
+    <Compile Remove="1007.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="1002.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="1001.cs" />
+    <None Include="1003.cs" />
+    <None Include="1004.cs" />
+    <None Include="1005.cs" />
+    <None Include="1006.cs" />
+    <None Include="1007.cs" />
+  </ItemGroup>
+
 </Project>
