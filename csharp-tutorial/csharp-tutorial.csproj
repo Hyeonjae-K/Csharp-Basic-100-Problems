@@ -33,6 +33,9 @@
     <Compile Remove="1024.cs" />
     <Compile Remove="1025.cs" />
     <Compile Remove="1026.cs" />
+    <Compile Remove="1027.cs" />
+    <Compile Remove="1028.cs" />
+    <Compile Remove="1029.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -63,6 +66,9 @@
     <None Include="1024.cs" />
     <None Include="1025.cs" />
     <None Include="1026.cs" />
+    <None Include="1027.cs" />
+    <None Include="1028.cs" />
+    <None Include="1029.cs" />
   </ItemGroup>
 
 </Project>
