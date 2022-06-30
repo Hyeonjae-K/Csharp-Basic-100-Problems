@@ -66,6 +66,54 @@
     <Compile Remove="1057.cs" />
     <Compile Remove="1058.cs" />
     <Compile Remove="1059.cs" />
+    <Compile Remove="1060.cs" />
+    <Compile Remove="1061.cs" />
+    <Compile Remove="1062.cs" />
+    <Compile Remove="1063.cs" />
+    <Compile Remove="1064.cs" />
+    <Compile Remove="1065.cs" />
+    <Compile Remove="1066.cs" />
+    <Compile Remove="1067.cs" />
+    <Compile Remove="1068.cs" />
+    <Compile Remove="1069.cs" />
+    <Compile Remove="1070.cs" />
+    <Compile Remove="1071.cs" />
+    <Compile Remove="1072.cs" />
+    <Compile Remove="1073.cs" />
+    <Compile Remove="1074.cs" />
+    <Compile Remove="1075.cs" />
+    <Compile Remove="1076.cs" />
+    <Compile Remove="1077.cs" />
+    <Compile Remove="1078.cs" />
+    <Compile Remove="1079.cs" />
+    <Compile Remove="1080.cs" />
+    <Compile Remove="1081.cs" />
+    <Compile Remove="1082.cs" />
+    <Compile Remove="1083.cs" />
+    <Compile Remove="1084.cs" />
+    <Compile Remove="1085.cs" />
+    <Compile Remove="1086.cs" />
+    <Compile Remove="1087.cs" />
+    <Compile Remove="1088.cs" />
+    <Compile Remove="1089.cs" />
+    <Compile Remove="1090.cs" />
+    <Compile Remove="1091.cs" />
+    <Compile Remove="1092.cs" />
+    <Compile Remove="1093.cs" />
+    <Compile Remove="1094.cs" />
+    <Compile Remove="1095.cs" />
+    <Compile Remove="1096.cs" />
+    <Compile Remove="1097.cs" />
+    <Compile Remove="1098.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <CodeAnalysisDictionary Include="1085.cs" />
+    <None Include="1094.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="1060.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -135,6 +183,42 @@
     <None Include="1055.cs" />
     <None Include="1058.cs" />
     <None Include="1059.cs" />
+    <None Include="1061.cs" />
+    <None Include="1062.cs" />
+    <None Include="1063.cs" />
+    <None Include="1064.cs" />
+    <None Include="1065.cs" />
+    <None Include="1066.cs" />
+    <None Include="1067.cs" />
+    <None Include="1068.cs" />
+    <None Include="1069.cs" />
+    <None Include="1070.cs" />
+    <None Include="1071.cs" />
+    <None Include="1072.cs" />
+    <None Include="1073.cs" />
+    <None Include="1074.cs" />
+    <None Include="1075.cs" />
+    <None Include="1076.cs" />
+    <None Include="1077.cs" />
+    <None Include="1078.cs" />
+    <None Include="1079.cs" />
+    <None Include="1080.cs" />
+    <None Include="1081.cs" />
+    <None Include="1082.cs" />
+    <None Include="1083.cs" />
+    <None Include="1084.cs" />
+    <None Include="1086.cs" />
+    <None Include="1087.cs" />
+    <None Include="1088.cs" />
+    <None Include="1089.cs" />
+    <None Include="1090.cs" />
+    <None Include="1091.cs" />
+    <None Include="1092.cs" />
+    <None Include="1093.cs" />
+    <None Include="1095.cs" />
+    <None Include="1096.cs" />
+    <None Include="1097.cs" />
+    <None Include="1098.cs" />
   </ItemGroup>
 
 </Project>
